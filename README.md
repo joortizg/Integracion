@@ -5,8 +5,6 @@ Aplicación de productividad para gestionar listas de tareas, se puede crear, bo
 
 # INTEGRANTES 
 
-JOSE MIGUEL BARRETO SANDOVAL 
-KENNY YIM  ROMERO SASTOQUE
-GILBERTH ALEXIS RENTERIA 
+
 JOSÉ ANDRED ORTIZ GARATEJO
-JHOAN ANDREY PARRA DELGADO
+
